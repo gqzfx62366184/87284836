@@ -1,2 +1,3 @@
+con=DriverManager.getConnection(url, userName, password);
 test.fetch();
 hello world
