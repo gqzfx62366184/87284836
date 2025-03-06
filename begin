@@ -1,3 +1,4 @@
+out.write(”aString”);
 } catch (IOException e) {
 public static void main(String[] args)
 con=DriverManager.getConnection(url, userName, password);
