@@ -1,3 +1,4 @@
+Class.forName(driverClass);
 Properties props = new Properties();
 public void init(FileInputStream fs) throws ClassNotFoundException, SQLException, FileNotFoundException, IOException
 } finally {
