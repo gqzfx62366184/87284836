@@ -1,3 +1,4 @@
+Connection con;
 public class OracleJdbcTest
 } finally {
 Class.forName(driverClass);
