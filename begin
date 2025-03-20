@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 } finally {
 Class.forName(driverClass);
 Properties props = new Properties();
